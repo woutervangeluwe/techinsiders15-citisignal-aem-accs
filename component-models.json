@@ -1,5 +1,9 @@
 [
   {
+  "id": "brandconcierge",
+    "fields": []
+  },
+  {
     "id": "image",
     "fields": [
       {
